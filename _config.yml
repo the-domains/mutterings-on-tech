@@ -1,28 +1,40 @@
-name: Mutterings on Tech
 favicon: null
-layout_spectrum: 0.6229594922624528
-typography_spectrum: 0.42919356119818985
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Mutterings on Tech
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.6192266
+  brandStrength: 0.6521917032077909
+  lightness: 0.2819549
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.6521917032077909
-  lightness: 0.6087696594186127
-  saturation: 0.1382694544736296
-  rhythmicContrast: 0.592675467254594
-purpose: []
+  rhythmicContrast: 0.5926754
+typography_spectrum: 0.7234157
+layout_spectrum: 0.4935553
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
