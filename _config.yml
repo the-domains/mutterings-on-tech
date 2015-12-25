@@ -1,5 +1,4 @@
-favicon: null
-name: Mutterings on Tech
+layout_spectrum: 0.4935553
 opengraph:
   image: null
   type: null
@@ -18,23 +17,24 @@ collections:
       path: '/:title/'
 purpose: []
 color:
-  saturation: 0.6192266
+  saturation: 0.8705692
   brandStrength: 0.6521917032077909
-  rhythmicContrast: 0.5926754
+  lightness: 0.8179377
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  lightness: 0.2819549
+  rhythmicContrast: 0.7781955
 typography_spectrum: 1
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.4935553
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: Mutterings on Tech
