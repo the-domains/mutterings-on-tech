@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.washingtonpost.com/lifestyle/magazine/dave-barrys-year-in-review-the-sad-thing-is-were-not-making-this-up/2015/12/20/5a55390a-993c-11e5-94f0-9eeaff906ef3_story.html'
 title: "It's always good to reflect on the year that has passed"
-datePublished: '2015-12-27T19:31:18.579Z'
-dateModified: '2015-12-27T19:24:43.415Z'
+datePublished: '2016-01-11T01:09:11.053Z'
+dateModified: '2015-12-27T19:31:18.579Z'
 sourcePath: _posts/2015-12-27-its-always-good-to-reflect-on-the-year-that-has-passed.md
 published: true
 inFeed: true
