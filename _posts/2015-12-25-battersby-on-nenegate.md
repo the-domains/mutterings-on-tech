@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2016-01-11T01:09:33.965Z'
+datePublished: '2016-01-11T01:09:51.346Z'
 publisher:
   domain: ''
   name: ''
 title: Battersby on Nenegate
-dateModified: '2015-12-25T03:42:37.500Z'
+dateModified: '2016-01-11T01:09:33.965Z'
 sourcePath: _posts/2015-12-25-battersby-on-nenegate.md
 published: true
 inFeed: true
