@@ -1,18 +1,24 @@
 ---
 description: ''
+isBasedOnUrl: 'urn:uuid:ddd05148-29f1-4e62-9a58-1688789dc0ea'
 author: []
-datePublished: '2016-02-22T19:47:52.152Z'
+datePublished: '2016-02-22T19:48:51.975Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
+  url: null
+  favicon: null
 title: Battersby on Nenegate
-dateModified: '2016-01-11T01:15:31.989Z'
+dateModified: '2016-02-22T19:48:23.407Z'
 sourcePath: _posts/2015-12-25-battersby-on-nenegate.md
 published: true
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: battersby-on-nenegate/index.html
+inLanguage: null
+starred: true
+keywords: []
+authors: []
 _context: 'http://schema.org'
 _type: Article
 
